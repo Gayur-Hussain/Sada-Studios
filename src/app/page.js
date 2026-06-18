@@ -326,7 +326,7 @@ export default function Home() {
               className="w-full h-full relative"
             >
               <Image
-                src="https://images.unsplash.com/photo-1492691527719-9d1e07e534b4?q=80&w=1920&auto=format&fit=crop"
+                src="/17.png"
                 alt="Cinematic Hero"
                 fill
                 sizes="100vw"
